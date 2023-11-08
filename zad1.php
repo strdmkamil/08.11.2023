@@ -6,8 +6,8 @@
 <body>
 
 <?php
-    $zmienna1 = 10;
-    $zmienna2 = 20;
+    $zmienna1 = 11;
+    $zmienna2 = 12;
 
     if ($zmienna1 > $zmienna2) {
         echo "Większa wartość to: $zmienna1";

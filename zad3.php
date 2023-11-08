@@ -8,7 +8,7 @@
 <h1>Kalkulator wartości bezwzględnej</h1>
 
 <form action="" method="post">
-    Podaj liczbę: <input type="text" name="liczba">
+    Podaj liczbe: <input type="text" name="liczba">
     <input type="submit" value="Oblicz">
 </form>
 

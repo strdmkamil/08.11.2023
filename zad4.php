@@ -6,8 +6,8 @@
 <body>
 
 <?php
-$a = 10;
-$b = 20;
+$a = 14;
+$b = 12;
 
 if ($a < $b) {
     echo "$a jest mniejsze od $b";
